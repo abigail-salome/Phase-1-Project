@@ -1,0 +1,185 @@
+{
+  "destinations": [
+    {
+      "id": "1",
+      "name": "Maasai Mara",
+      "location": "Kenya",
+      "description": "A large game reserve in Narok, known for its annual migration of wildebeest.",
+      "images": [
+        "https://wilderness-bookings.b-cdn.net/ord-group/websites/maasai-mara/home/maasai-mara-lion-king.jpeg",
+        "https://secretafrica.com/wp-content/uploads/2023/03/Top-Reasons-to-visit-the-Masai-Mara-2.png",
+        "https://africasafaritrips.com/wp-content/uploads/2024/02/Masai-Mara-2.jpeg"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Diani Beach",
+      "location": "Kenya",
+      "description": "A popular beach resort area on the Indian Ocean coast of Kenya.",
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/57/5b/af/paradisiac-kite-spot.jpg",
+        "https://www.africanmeccasafaris.com/wp-content/uploads/leopardbeachresortspa1.jpg",
+        "https://www.kuoni.co.uk/alfredand/wp-content/uploads/2021/06/Diani-camel-train.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Mount Kenya",
+      "location": "Kenya",
+      "description": "The highest mountain in Kenya and the second-highest in Africa.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mount_Kenya.jpg/1280px-Mount_Kenya.jpg",
+        "https://www.wildlifekenyasafari.com/wp-content/uploads/2022/02/Visit-Mount-Kenya-National-Park-in-2021.jpg",
+        "https://ringo-safaris.com/wp-content/uploads/2023/12/Mount-Kenya.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Lake Nakuru",
+      "location": "Kenya",
+      "description": "A shallow soda lake known for its abundance of flamingos.",
+      "images": [
+        "https://africaadventurevacations.com/wp-content/uploads/2021/07/tourists-attractions-found-in-Lake-Nakuru-National-Park.jpg",
+        "https://amazingmemoriessafaris.com/wp-content/uploads/2019/10/Lake-Nakuru-National-Park.jpg",
+        "https://www.rwandawildlifesafari.com/wp-content/uploads/2021/03/Lake-Nakuru-National-Park.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Lamu Island",
+      "location": "Kenya",
+      "description": "A UNESCO World Heritage site known for its preserved Swahili culture.",
+      "images": [
+        "https://kenyaluxurysafari.co.uk/wp-content/uploads/image3-8-1024x698.webp",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4eCs8gb_QopuLPseIHr9Hz1btt_w-PEdGlw&s",
+        "https://amazingmemoriessafaris.com/wp-content/uploads/2019/11/Lamu-island.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Tsavo National Park",
+      "location": "Kenya",
+      "description": "One of the oldest and largest parks in Kenya, known for its wildlife.",
+      "images": [
+        "https://www.tsavonationalparkkenya.com/wp-content/uploads/2020/03/Tsavo-national-park-animals.jpg",
+        "https://www.kenyawildlifetours.com/wp-content/uploads/2021/09/Tsavo-National-Park-Zebras.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR23eMgZDl5TjTmsiJiKhUphd760Em2L_xP2w&s"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Hell's Gate National Park",
+      "location": "Kenya",
+      "description": "A scenic park with gorges, hot springs, and abundant wildlife.",
+      "images": [
+        "https://www.awaygowe.com/wp-content/uploads/2014/11/hells-gate-national-park-featured_3730.webp",
+        "https://images.squarespace-cdn.com/content/v1/5900db44e6f2e13ef4441c28/1494439724450-TOISSWRBF06I31O14XKU/H1.jpg",
+        "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDk4OTQzMTQ3OTEwNTA0/hells-gate-national-park-kenya.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Samburu National Reserve",
+      "location": "Kenya",
+      "description": "A rugged and semi-desert park known for its unique wildlife.",
+      "images": [
+        "https://journeysbydesign.com/wp-content/uploads/2016/12/SARUNI_ACT-2-e1574940492536-2000x1024.jpg",
+        "https://www.amboselipark.org/wp-content/uploads/2020/02/samburu-national-park.jpg",
+        "https://samburunationalreservekenya.com/wp-content/uploads/2021/09/Leopard-in-Samburu-National-Park-1024x683-1.jpg"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Nairobi National Park",
+      "location": "Kenya",
+      "description": "A unique wildlife park located just outside Nairobi's city center.",
+      "images": [
+        "https://www.nkuringosafaris.com/wp-content/uploads/2021/10/nairobi-national-park01.jpg",
+        "https://ole-sereni.com/wp-content/uploads/2023/10/Nairobi-National-Park.jpg",
+        "https://divulgeadventures.com/blog/wp-content/uploads/2022/03/PSX_20220314_133338-1024x683.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Amboseli National Park",
+      "location": "Kenya",
+      "description": "Known for its large elephant herds and views of Mount Kilimanjaro.",
+      "images": [
+        "https://www.amboseliparkkenya.com/wp-content/uploads/2020/08/Activities-to-do-in-Amboseli-National-Park.jpg",
+        "https://cdn.britannica.com/13/5513-050-4F04D980/Zebras-Amboseli-National-Park-Kenya.jpg",
+        "https://www.keniamara.com/sites/default/files/2021-04/aa5-min_1024x576.jpg"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Malindi",
+      "location": "Kenya",
+      "description": "A historic town known for its beautiful beaches and Swahili architecture.",
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a6/df/99/malindi.jpg?w=1400&h=1400&s=1",
+        "https://ajkenyasafaris.com/wp-content/uploads/2023/05/malindi-bg1.webp",
+        "https://i1.wp.com/chicinitie.com/wp-content/uploads/2019/09/Malindi-BEach-2.jpg?fit=800%2C600&ssl=1"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Watamu",
+      "location": "Kenya",
+      "description": "A small town known for its marine national park and beautiful beaches.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/81/Watamu_Beach%2C_Kenya.JPG",
+        "https://kenyaholidays.travel/wp-content/uploads/2020/08/Watamu-beach-life.jpg",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485319575.jpg?k=9be7a0e5e73c6ebea1ea9f022b768e93f73e4a67c7c4dbfeb4c25c854cb8fe66&o=&hp=1"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Aberdare National Park",
+      "location": "Kenya",
+      "description": "A park known for its mountainous terrain, waterfalls, and diverse wildlife.",
+      "images": [
+        "https://www.startraveltour.com/cdn/shop/products/elephant_Aberdare_grande.jpg?v=1430623677",
+        "https://nationalparks-15bc7.kxcdn.com/images/parks/aberdare/Aberdare%20National%20Park%20Magura%20Waterfall.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFO229mDmMBlKBbNjVNI6bkya4niKFpHvVQ&s"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Kisite-Mpunguti Marine National Park",
+      "location": "Kenya",
+      "description": "A marine park known for its coral reefs and marine life.",
+      "images": [
+        "https://www.naturaltoursandsafaris.com/wp-content/uploads/2023/05/Kisite-Mpunguti-Marine-Park-Reserve.jpg",
+        "https://africaadventurevacations.com/wp-content/uploads/2021/08/What-to-do-in-Kisite-Mpunguti-Marine-National-Park.jpg",
+        "https://salsaworldtraveler.com/wp-content/uploads/2022/11/20220516_135247.jpg?w=1200"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Mount Elgon National Park",
+      "location": "Kenya",
+      "description": "A park centered around an extinct volcano, with caves and unique flora.",
+      "images": [
+        "https://www.wildlifekenyasafari.com/wp-content/uploads/2022/06/elgon.jpg",
+        "https://www.pamojatoursandtravel.com/wp-content/uploads/2022/02/Mount-Elgon-National-Park-Uganda.jpg",
+        "https://www.greatadventuresafaris.com/wp-content/uploads/Mount-Elgon-National-park-Kenya-1200x675.jpg"
+      ]
+    }
+  ],
+  "bookings": [
+    {
+      "id": "9b95",
+      "destinationId": "",
+      "name": "Salome Abigail",
+      "email": "salomeabigail9@gmail.com",
+      "phone": "0101295214"
+    },
+    {
+      "id": "7c17",
+      "destinationId": "2",
+      "name": "seth mwebi",
+      "email": "sethmwebi27@gmail.com",
+      "date": "2024-07-21"
+    }
+  ]
+}

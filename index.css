@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  background-image: url("https://media.istockphoto.com/id/494437882/photo/beach-diani.jpg?s=1024x1024&w=is&k=20&c=UeDBtw6XuhhE5aNrs6shw9zFr1mOgqdRYSzGbhV42N0=");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.95;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.button-container {
+  display: flex;
+  align-items: center;
+  background-color: green;
+  color: whitesmoke;
+}
+
+.heading-container {
+  display: flex;
+  align-items: center;
+  width: 80%;
+  justify-content: space-between;
+}
+
+.heading {
+  color: green;
+  font-weight: bold;
+}
+h2 {
+  text-align: center;
+}
+.book-destination-title {
+  text-align: start;
+}
+.black-text {
+  color: black;
+  font-weight: bold;
+}
+.orange-text {
+  color: orange;
+  font-weight: bold;
+}
+p {
+  display: flex;
+  justify-content: center;
+}
+.destination-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.destination {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+  margin-bottom: 10px;
+  margin-left: 8px;
+  width: 100%;
+  justify-content: space-around;
+  margin-top: 20px;
+  color: black;
+}
+.destination-wrapper {
+  display: flex;
+  width: 100%;
+}
+.destination-image {
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+button {
+  padding: 6px 8px;
+  background-color: black;
+  color: whitesmoke;
+}
+
+.destination-image:hover {
+  transform: scale(1.5);
+}
+.book-now {
+  white-space: nowrap;
+}
+.destination-name {
+  width: 200px;
+  color: blue;
+}
+.search-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
