@@ -15,7 +15,7 @@ Safari Serenade is a travel destination guide that allows users to search for de
 
 #### Installation
 * Clone the repository:
-* git clone https://github.com/your-username/kenyas-expedition-echoes.git
+* git clone https://github.com/abigail-salome/Phase-1-Project.git
 * cd Safari Serenade.
 * Start the json-server:json-server --watch db.json.
 * Open index.html in your browser to view the project.

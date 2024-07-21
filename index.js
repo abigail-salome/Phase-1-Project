@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   async function displayDestinations(filterLocation = "") {
     try {
-      const response = await fetch("http://localhost:3000/destinations");
+      const response = await fetch("https://json-server-fhn5.onrender.com/destinations");
       const result = await response.json();
 
       // Clear previous results
@@ -139,7 +139,7 @@ document.addEventListener("DOMContentLoaded", () => {
       };
 
       try {
-        const response = await fetch("http://localhost:3000/bookings", {
+        const response = await fetch("https://json-server-fhn5.onrender.com/bookings", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
